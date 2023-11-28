@@ -4,7 +4,7 @@ Basic reactive Agency Website to practice CSS properties.
   
    ### With Higher and Lower Res
   
-  <img src="assets/SS/SS1.png " width="575"  > <img src="assets/SS/SS2.png" width="150" >
+  <img src="ReactiveWebsite/assets/SS/SS1.png " width="575"  > <img src="ReactiveWebsite/assets/SS/SS2.png" width="150" >
 
 </p>
 

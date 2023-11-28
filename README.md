@@ -1,16 +1,15 @@
 # ReactiveAgencyWebsite
 Basic reactive Agency Website to practice CSS properties.
-
-
-## Preview
 <p align="center" >
   
-   ### With Higher Width
+   ### With Higher and Lower Res
   
-  <img src="assets/SS/SS1.png" width="600" >
+  <img src="assets/SS/SS1.png " width="575"  > <img src="assets/SS/SS2.png" width="150" >
 
- 
-  ### With Lower Width
-  <img src="assets/SS/SS2.png" width="400" >
- 
 </p>
+
+# Mondrian Paint
+
+Mondrian paint using only CSS to practice grid properties.
+
+   <img src="Mondrian Paint/SS1.png" width="300" > 
